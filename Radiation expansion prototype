@@ -1,0 +1,55 @@
+# Mekanism Radiation Expansion (Concept Fork)
+
+⚠️ **Note:** This is **not a working mod**.  
+This fork exists only as a **testbed for ideas, design docs, and community feedback** about a possible radiation expansion for [Mekanism](https://github.com/mekanism/Mekanism).
+
+---
+
+## 🌍 Project Vision
+The **Radiation Expansion** aims to add more depth to Mekanism’s radiation system with new devices, tools, and mechanics.  
+The idea is to create a **community-driven, open project** where anyone can contribute, suggest features, or improve the concept.
+
+---
+
+## 🔧 Planned Features
+- **Radiation Detection Devices (RDD)**  
+  Stationary block with tiered upgrades. Outputs different redstone signals depending on detected radiation level.  
+  - Toggleable beeping alarm  
+  - Button to ignore natural background radiation  
+  - Uses Mekanism-style redstone logic  
+
+- **Portable Detection Device (PDD)**  
+  Handheld tool similar to a Geiger Counter/Dosimeter.  
+  - Custom HUD for live readings  
+  - Beeping can be toggled (HUD always stays on)  
+  - Fixed storage: half of a tiered tank  
+
+- **Area Purification Device (APD)**  
+  Tiered block for cleansing radiation.  
+  - Storage = half of corresponding Mekanism tank capacity  
+  - Higher tiers = larger purification radius and efficiency  
+
+---
+
+## 📌 Roadmap
+- [x] Write design concepts  
+- [x] Create crafting recipes  
+- [x] Community brainstorming & feedback  
+- [ ] First prototype implementation  
+- [ ] Balancing & testing  
+- [ ] Release candidate  
+
+---
+
+## 🤝 Community & Contributions
+This project is **open for contributions and feedback**.  
+If you’re a developer, feel free to fork, open PRs, or suggest new features.  
+If you’re not a coder, ideas and feedback are just as valuable!  
+
+---
+
+## 📜 License
+This concept is licensed under **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**.  
+You are free to share and adapt the material with attribution, but **no commercial use** is allowed.
+
+---
