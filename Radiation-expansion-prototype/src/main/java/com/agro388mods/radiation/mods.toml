@@ -1,9 +1,0 @@
-modLoader="javafml"
-loaderVersion="[58,)"
-license="MIT"
-
-[[mods]]
-modId="mekanismradiationexpansion"
-version="1.0.0"
-displayName="Mekanism Radiation Expansion"
-description='Adds radiation blocks and tiered purification devices with customizable tiers.'
