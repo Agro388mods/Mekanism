@@ -1,0 +1,26 @@
+MekanismRadiationExpansion/
+│
+├─ build.gradle
+│
+├─ src/
+│   └─ main/
+│       ├─ java/
+│       │   └─ com/agro388mods/radiation/
+│       │       ├─ ModMain.java
+│       │       ├─ RadiationBlock.java
+│       │       ├─ RadiationHandler.java
+│       │       └─ TieredDevice.java
+│       │
+│       └─ resources/
+│           ├─ META-INF/
+│           │   └─ mods.toml
+│           └─ assets/mekanismradiationexpansion/
+│               ├─ textures/
+│               │   ├─ blocks/
+│               │   │   ├─ lead_block.png
+│               │   │   ├─ uranium_block.png
+│               │   │   └─ tiered_device.png
+│               │   └─ items/
+│               │       ├─ lead_item.png
+│               │       ├─ uranium_item.png
+│               │       └─ tiered_device_item.png
